@@ -20,6 +20,7 @@ gem 'jquery-rails'
 gem 'nokogiri'
 gem 'rspec'
 gem 'frontend-generators'
+gem "font-awesome-rails"
 gem 'turbolinks'
 gem 'friendly_id', '~> 5.1.0'
 gem 'figaro'
